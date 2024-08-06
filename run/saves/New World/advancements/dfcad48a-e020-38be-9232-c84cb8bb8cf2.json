@@ -1,0 +1,105 @@
+{
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-08-06 16:38:15 +0200"
+    },
+    "done": true
+  },
+  "roboticdeers:recipes/misc/titanium_from_blasting_titanium_ore": {
+    "criteria": {
+      "has_titanium_ore": "2024-08-06 16:37:39 +0200"
+    },
+    "done": true
+  },
+  "roboticdeers:recipes/building_blocks/raw_titanium_block": {
+    "criteria": {
+      "has_raw_titanium": "2024-08-06 16:37:57 +0200"
+    },
+    "done": true
+  },
+  "roboticdeers:recipes/misc/titanium_from_blasting_raw_titanium": {
+    "criteria": {
+      "has_raw_titanium": "2024-08-06 16:37:57 +0200"
+    },
+    "done": true
+  },
+  "roboticdeers:recipes/misc/raw_titanium": {
+    "criteria": {
+      "has_raw_titanium_block": "2024-08-06 16:37:40 +0200"
+    },
+    "done": true
+  },
+  "roboticdeers:recipes/misc/titanium": {
+    "criteria": {
+      "has_titanium_block": "2024-08-06 16:37:40 +0200"
+    },
+    "done": true
+  },
+  "roboticdeers:recipes/building_blocks/titanium_block": {
+    "criteria": {
+      "has_titanium": "2024-08-06 16:37:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-08-06 16:37:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-08-06 16:38:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-08-06 16:38:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:lukewarm_ocean": "2024-08-06 16:37:17 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-08-06 16:38:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-08-06 16:38:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-08-06 16:38:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-08-06 16:38:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-08-06 16:38:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-08-06 16:38:15 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3953
+}
