@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "roboticdeers",
+	"version": "${version}",
+	"name": "Robotic Deers",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/roboticdeers/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"deerguy.roboticdeers.RoboticDeers"
+		],
+		"client": [
+			"deerguy.roboticdeers.RoboticDeersClient"
+		],
+		"fabric-datagen": [
+			"deerguy.roboticdeers.RoboticDeersDataGenerator"
+		]
+	},
+	"mixins": [
+		"roboticdeers.mixins.json",
+		{
+			"config": "roboticdeers.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+  "item.roboticdeers.titanium": "Titanium",
+  "item.roboticdeers.raw_titanium": "Raw Titanium",
+  "block.roboticdeers.titanium_block": "Block of Titanium",
+  "block.roboticdeers.titanium_ore": "Titanium Ore",
+  "block.roboticdeers.raw_titanium_block": "Raw Titanium Ore",
+
+  "block.roboticdeers.mantam_ore": "Mantam Ore",
+  "item.roboticdeers.mantam_shard": "Mantam Shard",
+  "item.roboticdeers.mantam_xon": "Mantam Xon",
+  "item.roboticdeers.mantam_xon_charged": "Mantam Xon Charged",
+
+  "item.roboticdeers.syfaoc": "Syfaoc",
+  "item.roboticdeers.syfaoc_red": "Red Syfaoc",
+  "block.roboticdeers.cobbled_syfaoc": "Cobbled Syfaoc",
+  "block.roboticdeers.cobbled_syfaoc_red": "Red Cobbled Syfaoc",
+
+  "item.roboticdeers.potato_bag": "Potato Bag",
+  "item.roboticdeers.nutrition_bag": "Nutrition Bag",
+
+  "itemgroup.teraform": "Robotic Deers"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 1000,
+  "experience": 0.0,
+  "group": "ores",
+  "ingredient": {
+    "item": "roboticdeers:raw_titanium"
+  },
+  "result": {
+    "id": "roboticdeers:titanium"
+  }
+}
